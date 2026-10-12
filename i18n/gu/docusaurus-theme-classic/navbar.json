@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "સીનેબ દસ્તાવેજ",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "સીનેબ લોગો",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "દસ્તાવેજીકરણ",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Seaneb Website": {
+    "message": "સીનેબ વેબસાઇટ",
+    "description": "Navbar item with label Seaneb Website"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "ટ્યુટોરીયલ - મૂળભૂત બાબતો",
+    "description": "The label for category 'Tutorial - Basics' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 'Tutorial - Basics' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "ટ્યુટોરીયલ - વધારાની",
+    "description": "The label for category 'Tutorial - Extras' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.products": {
+    "message": "ઉત્પાદનો",
+    "description": "The label for category 'products' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "ઝાંખી",
+    "description": "The label for category 'Overview' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "શરૂઆત કરવી",
+    "description": "The label for category 'Getting Started' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started.link.generated-index.description": {
+    "message": "સીનેબ જોબ્સ પર શરૂઆત કરવા માટે સંપૂર્ણ વપરાશકર્તા માર્ગદર્શિકા.",
+    "description": "The generated-index page description for category 'Getting Started' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.For Job Seekers": {
+    "message": "નોકરી શોધનારાઓ માટે",
+    "description": "The label for category 'For Job Seekers' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.For Job Seekers.link.generated-index.description": {
+    "message": "Documentation for For Job Seekers",
+    "description": "The generated-index page description for category 'For Job Seekers' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.For Employers": {
+    "message": "નોકરીદાતાઓ માટે",
+    "description": "The label for category 'For Employers' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.For Employers.link.generated-index.description": {
+    "message": "Documentation for For Employers",
+    "description": "The generated-index page description for category 'For Employers' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Jobs & Applications": {
+    "message": "નોકરીઓ અને અરજીઓ",
+    "description": "The label for category 'Jobs & Applications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Jobs & Applications.link.generated-index.description": {
+    "message": "નોકરીઓ માટે અરજી કરવા અને તેની સ્થિતિ ટ્રૅક કરવાની સંપૂર્ણ માહિતી.",
+    "description": "The generated-index page description for category 'Jobs & Applications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Resume": {
+    "message": "બાયોડેટા",
+    "description": "The label for category 'Resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Resume.link.generated-index.description": {
+    "message": "Documentation for Resume",
+    "description": "The generated-index page description for category 'Resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Payments & Plans": {
+    "message": "ચુકવણી અને યોજનાઓ",
+    "description": "The label for category 'Payments & Plans' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Payments & Plans.link.generated-index.description": {
+    "message": "Documentation for Payments & Plans",
+    "description": "The generated-index page description for category 'Payments & Plans' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Notifications": {
+    "message": "સૂચનાઓ",
+    "description": "The label for category 'Notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Notifications.link.generated-index.description": {
+    "message": "ઈમેલ, એસએમએસ, વોટ્સએપ અને જોબ એલર્ટ સૂચનાઓનું સંચાલન.",
+    "description": "The generated-index page description for category 'Notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Account & Security": {
+    "message": "ખાતું અને સુરક્ષા",
+    "description": "The label for category 'Account & Security' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Account & Security.link.generated-index.description": {
+    "message": "મોબાઇલ નંબર, ઈમેલ, સુરક્ષા અને ગોપનીયતા સેટિંગ્સનું સંચાલન.",
+    "description": "The generated-index page description for category 'Account & Security' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshooting": {
+    "message": "મુશ્કેલીનિવારણ",
+    "description": "The label for category 'Troubleshooting' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshooting.link.generated-index.description": {
+    "message": "ઓટીપી, લૉગિન, અરજી અને તકનીકી સમસ્યાઓના ઉકેલો.",
+    "description": "The generated-index page description for category 'Troubleshooting' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "વારંવાર પૂછાતા પ્રશ્નો",
+    "description": "The label for category 'Frequently Asked Questions' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions.link.generated-index.description": {
+    "message": "સીનેબ જોબ્સ વિશે વારંવાર પૂછાતા પ્રશ્નોના ઝડપી જવાબો.",
+    "description": "The generated-index page description for category 'Frequently Asked Questions' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Contact & Support": {
+    "message": "સંપર્ક અને આધાર",
+    "description": "The label for category 'Contact & Support' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Contact & Support.link.generated-index.description": {
+    "message": "સીનેબ સપોર્ટ ટીમનો સંપર્ક કરો અને તમારી સમસ્યાઓ શેર કરો.",
+    "description": "The generated-index page description for category 'Contact & Support' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb Jobs": {
+    "message": "સીનેબ જોબ્સ",
+    "description": "The label for category 'Seaneb Jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Business User": {
+    "message": "વ્યવસાય વપરાશકર્તા",
+    "description": "The label for category 'Business User' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Customer User": {
+    "message": "ગ્રાહક",
+    "description": "The label for category 'Customer User' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb App": {
+    "message": "સીનેબ એપ",
+    "description": "The label for category 'Seaneb App' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb Auto": {
+    "message": "સીનેબ ઑટો",
+    "description": "The label for category 'Seaneb Auto' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb NGO": {
+    "message": "સીનેબ એનજીઓ",
+    "description": "The label for category 'Seaneb NGO' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb News": {
+    "message": "સીનેબ ન્યૂઝ",
+    "description": "The label for category 'Seaneb News' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Seaneb Property": {
+    "message": "સીનેબ પ્રોપર્ટી",
+    "description": "The label for category 'Seaneb Property' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Tiffin Service": {
+    "message": "ટિફિન સેવા",
+    "description": "The label for category 'Tiffin Service' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Job Search": {
+    "message": "નોકરી શોધો",
+    "description": "The label for category 'Job Search' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Job Search.link.generated-index.description": {
+    "message": "સ્થાનિક નોકરીઓ શોધવા અને ફિલ્ટર કરવા માટે માર્ગદર્શિકા.",
+    "description": "The generated-index page description for category 'Job Search' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Resume Management": {
+    "message": "બાયોડેટા સંચાલન",
+    "description": "The label for category 'Resume Management' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Resume Management.link.generated-index.description": {
+    "message": "પ્રોફેશનલ બાયોડેટા બનાવવા, અપડેટ કરવા અને મફતમાં ડાઉનલોડ કરવાની રીતો.",
+    "description": "The generated-index page description for category 'Resume Management' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Profile & Job Preferences": {
+    "message": "પ્રોફાઇલ અને નોકરીની પસંદગીઓ",
+    "description": "The label for category 'Profile & Job Preferences' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Profile & Job Preferences.link.generated-index.description": {
+    "message": "તમારી પ્રોફાઇલ પૂર્ણ કરવા અને નોકરીની પસંદગીઓનું સંચાલન કરવા માટેના નિર્દેશો.",
+    "description": "The generated-index page description for category 'Profile & Job Preferences' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.what-is-seaneb-jobs": {
+    "message": "સીનેબ જોબ્સ શું છે?",
+    "description": "The label for doc 'what-is-seaneb-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-to-create-an-account": {
+    "message": "એકાઉન્ટ કેવી રીતે બનાવવું",
+    "description": "The label for doc 'how-to-create-an-account' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.login-and-otp-verification": {
+    "message": "લૉગિન અને ઓટીપી વેરિફિકેશન",
+    "description": "The label for doc 'login-and-otp-verification' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.update-your-profile": {
+    "message": "તમારી પ્રોફાઇલ અપડેટ કરો",
+    "description": "The label for doc 'update-your-profile' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.account-settings-for-job-seekers": {
+    "message": "નોકરી શોધનારાઓ માટે એકાઉન્ટ સેટિંગ્સ",
+    "description": "The label for doc 'account-settings-for-job-seekers' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.search-for-jobs": {
+    "message": "નોકરીઓ શોધો",
+    "description": "The label for doc 'search-for-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.filter-jobs": {
+    "message": "નોકરીઓ ફિલ્ટર કરો",
+    "description": "The label for doc 'filter-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.view-job-details": {
+    "message": "નોકરીની વિગતો જુઓ",
+    "description": "The label for doc 'view-job-details' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.saved-jobs": {
+    "message": "સાચવેલી નોકરીઓ",
+    "description": "The label for doc 'saved-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.applied-jobs": {
+    "message": "અરજી કરેલી નોકરીઓ",
+    "description": "The label for doc 'applied-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-job-applications-work": {
+    "message": "નોકરીની અરજીઓ કેવી રીતે કાર્ય કરે છે",
+    "description": "The label for doc 'how-job-applications-work' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.apply-for-a-job": {
+    "message": "નોકરી માટે અરજી કરો",
+    "description": "The label for doc 'apply-for-a-job' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.track-your-applications": {
+    "message": "તમારી અરજીઓને ટ્રૅક કરો",
+    "description": "The label for doc 'track-your-applications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.application-status": {
+    "message": "અરજીની સ્થિતિ",
+    "description": "The label for doc 'application-status' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.withdraw-an-application": {
+    "message": "અરજી પાછી ખેંચો",
+    "description": "The label for doc 'withdraw-an-application' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.job-expiry": {
+    "message": "નોકરી સમાપ્તિ સમય",
+    "description": "The label for doc 'job-expiry' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.closed-and-expired-jobs": {
+    "message": "બંધ અને સમાપ્ત થયેલી નોકરીઓ",
+    "description": "The label for doc 'closed-and-expired-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.why-cant-i-apply": {
+    "message": "હું શા માટે અરજી કરી શકતો નથી?",
+    "description": "The label for doc 'why-cant-i-apply' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.report-a-job": {
+    "message": "નોકરીની જાણ કરો",
+    "description": "The label for doc 'report-a-job' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.create-your-resume": {
+    "message": "તમારો બાયોડેટા બનાવો",
+    "description": "The label for doc 'create-your-resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.update-resume": {
+    "message": "બાયોડેટા અપડેટ કરો",
+    "description": "The label for doc 'update-resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.download-resume": {
+    "message": "બાયોડેટા ડાઉનલોડ કરો",
+    "description": "The label for doc 'download-resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.download-free-resume": {
+    "message": "મફત બાયોડેટા ડાઉનલોડ કરો",
+    "description": "The label for doc 'download-free-resume' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.resume-visibility": {
+    "message": "બાયોડેટા દૃશ્યતા",
+    "description": "The label for doc 'resume-visibility' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.resume-tips": {
+    "message": "બાયોડેટા ટિપ્સ",
+    "description": "The label for doc 'resume-tips' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.profile-completion": {
+    "message": "પ્રોફાઇલ પૂર્ણતા",
+    "description": "The label for doc 'profile-completion' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.seeking-jobs-how-it-works": {
+    "message": "નોકરીની શોધ — તે કેવી રીતે કાર્ય કરે છે",
+    "description": "The label for doc 'seeking-jobs-how-it-works' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.manage-job-preferences": {
+    "message": "નોકરીની પસંદગીઓનું સંચાલન કરો",
+    "description": "The label for doc 'manage-job-preferences' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.update-personal-information": {
+    "message": "વ્યક્તિગત માહિતી અપડેટ કરો",
+    "description": "The label for doc 'update-personal-information' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.manage-skills-education-experience": {
+    "message": "કૌશલ્ય, શિક્ષણ અને અનુભવનું સંચાલન કરો",
+    "description": "The label for doc 'manage-skills-education-experience' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.preview-your-profile": {
+    "message": "તમારી પ્રોફાઇલનું પૂર્વાવલોકન કરો",
+    "description": "The label for doc 'preview-your-profile' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.email-notifications": {
+    "message": "ઈમેલ સૂચનાઓ",
+    "description": "The label for doc 'email-notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.sms-notifications": {
+    "message": "એસએમએસ સૂચનાઓ",
+    "description": "The label for doc 'sms-notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.whatsapp-notifications": {
+    "message": "વોટ્સએપ સૂચનાઓ",
+    "description": "The label for doc 'whatsapp-notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.job-alerts": {
+    "message": "જોબ એલર્ટ",
+    "description": "The label for doc 'job-alerts' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.application-notifications": {
+    "message": "અરજી સૂચનાઓ",
+    "description": "The label for doc 'application-notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-to-manage-notifications": {
+    "message": "સૂચનાઓનું સંચાલન કેવી રીતે કરવું",
+    "description": "The label for doc 'how-to-manage-notifications' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.change-mobile-number": {
+    "message": "મોબાઇલ નંબર બદલો",
+    "description": "The label for doc 'change-mobile-number' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.change-email-address": {
+    "message": "ઈમેલ સરનામું બદલો",
+    "description": "The label for doc 'change-email-address' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.forgot-password-lost-access": {
+    "message": "પાસવર્ડ ભૂલી ગયા / ઍક્સેસ ગુમાવી",
+    "description": "The label for doc 'forgot-password-lost-access' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.delete-account": {
+    "message": "એકાઉન્ટ ડિલીટ કરો",
+    "description": "The label for doc 'delete-account' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.privacy-and-security": {
+    "message": "ગોપનીયતા અને સુરક્ષા",
+    "description": "The label for doc 'privacy-and-security' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.blocked-or-suspended-account": {
+    "message": "બ્લૉક કરેલ અથવા સસ્પેન્ડ કરેલ એકાઉન્ટ",
+    "description": "The label for doc 'blocked-or-suspended-account' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.otp-not-received": {
+    "message": "ઓટીપી મળ્યો નથી",
+    "description": "The label for doc 'otp-not-received' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.unable-to-login": {
+    "message": "લૉગિન કરવામાં અસમર્થ",
+    "description": "The label for doc 'unable-to-login' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.job-not-showing": {
+    "message": "નોકરી દેખાતી નથી",
+    "description": "The label for doc 'job-not-showing' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.unable-to-apply": {
+    "message": "અરજી કરવામાં અસમર્થ",
+    "description": "The label for doc 'unable-to-apply' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.resume-download-problem": {
+    "message": "બાયોડેટા ડાઉનલોડ સમસ્યા",
+    "description": "The label for doc 'resume-download-problem' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.payment-failed": {
+    "message": "ચુકવણી નિષ્ફળ",
+    "description": "The label for doc 'payment-failed' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.notification-not-received": {
+    "message": "સૂચના મળી નથી",
+    "description": "The label for doc 'notification-not-received' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.is-seaneb-jobs-free": {
+    "message": "શું સીનેબ જોબ્સ મફત છે?",
+    "description": "The label for doc 'is-seaneb-jobs-free' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.can-i-apply-for-multiple-jobs": {
+    "message": "શું હું બહુવિધ નોકરીઓ માટે અરજી કરી શકું?",
+    "description": "The label for doc 'can-i-apply-for-multiple-jobs' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-long-does-a-job-remain-active": {
+    "message": "નોકરી કેટલા સમય સુધી સક્રિય રહે છે?",
+    "description": "The label for doc 'how-long-does-a-job-remain-active' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-can-i-improve-my-profile-completion": {
+    "message": "હું મારી પ્રોફાઇલ પૂર્ણતા કેવી રીતે સુધારી શકું?",
+    "description": "The label for doc 'how-can-i-improve-my-profile-completion' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.can-i-edit-my-profile-after-registration": {
+    "message": "શું હું નોંધણી પછી મારી પ્રોફાઇલ સંપાદિત કરી શકું?",
+    "description": "The label for doc 'can-i-edit-my-profile-after-registration' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-do-i-delete-my-account": {
+    "message": "હું મારું એકાઉન્ટ કેવી રીતે ડિલીટ કરી શકું?",
+    "description": "The label for doc 'how-do-i-delete-my-account' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.how-do-i-contact-support": {
+    "message": "હું સપોર્ટનો સંપર્ક કેવી રીતે કરી શકું?",
+    "description": "The label for doc 'how-do-i-contact-support' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.what-should-i-do-if-a-job-looks-suspicious": {
+    "message": "જો કોઈ નોકરી શંકાસ્પદ લાગે તો મારે શું કરવું જોઈએ?",
+    "description": "The label for doc 'what-should-i-do-if-a-job-looks-suspicious' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.contact-support": {
+    "message": "સપોર્ટનો સંપર્ક કરો",
+    "description": "The label for doc 'contact-support' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.report-a-problem": {
+    "message": "સમસ્યાની જાણ કરો",
+    "description": "The label for doc 'report-a-problem' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.report-a-fake-job": {
+    "message": "નકલી નોકરીની જાણ કરો",
+    "description": "The label for doc 'report-a-fake-job' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.share-feedback": {
+    "message": "પ્રતિસાદ શેર કરો",
+    "description": "The label for doc 'share-feedback' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.terms-and-conditions": {
+    "message": "નિયમો અને શરતો",
+    "description": "The label for doc 'terms-and-conditions' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.item.link.privacy-policy": {
+    "message": "ગોપનીયતા નીતિ",
+    "description": "The label for doc 'privacy-policy' in sidebar 'tutorialSidebar'"
+  }
+}
