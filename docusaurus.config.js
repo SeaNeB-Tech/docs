@@ -81,7 +81,7 @@ const config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `© ${new Date().getFullYear()} Seaneb Technologies Pvt Ltd. All rights reserved.<br/>Made in India.`,
+      copyright: `© ${new Date().getFullYear()} Seaneb Technologies Pvt Ltd. All rights reserved.`,
     },
 
     prism: {
