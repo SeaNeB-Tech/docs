@@ -1,0 +1,25 @@
+{
+  "rewrites": [
+    {
+      "source": "/hi/:path*",
+      "destination": "/hi/:path*"
+    },
+    {
+      "source": "/gu/:path*",
+      "destination": "/gu/:path*"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    }
+  ],
+  "trailingSlash": false,
+  "cleanUrls": true
+}
