@@ -7,7 +7,6 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://docs.seaneb.com',
   baseUrl: '/',
-  trailingSlash: false,
   organizationName: 'Seaneb-Tech',
   projectName: 'seaneb-docs',
   onBrokenLinks: 'warn',

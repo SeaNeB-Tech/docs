@@ -1,26 +1,17 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
   "outputDirectory": "build",
-  "framework": null,
+  "cleanUrls": true,
   "headers": [
     {
-      "source": "/hi/(.*)",
+      "source": "/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
-      ]
-    },
-    {
-      "source": "/gu/(.*)",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
       ]
     }
-  ],
-  "rewrites": [
-    { "source": "/hi", "destination": "/hi/index.html" },
-    { "source": "/hi/((?!.*\\.).*)", "destination": "/hi/$1/index.html" },
-    { "source": "/gu", "destination": "/gu/index.html" },
-    { "source": "/gu/((?!.*\\.).*)", "destination": "/gu/$1/index.html" },
-    { "source": "/((?!.*\\.).*)", "destination": "/$1/index.html" }
   ]
 }
