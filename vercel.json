@@ -1,25 +1,26 @@
 {
-  "rewrites": [
-    {
-      "source": "/hi/:path*",
-      "destination": "/hi/:path*"
-    },
-    {
-      "source": "/gu/:path*",
-      "destination": "/gu/:path*"
-    }
-  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "framework": null,
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/hi/(.*)",
       "headers": [
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        }
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/gu/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
     }
   ],
-  "trailingSlash": false,
-  "cleanUrls": true
+  "rewrites": [
+    { "source": "/hi", "destination": "/hi/index.html" },
+    { "source": "/hi/((?!.*\\.).*)", "destination": "/hi/$1/index.html" },
+    { "source": "/gu", "destination": "/gu/index.html" },
+    { "source": "/gu/((?!.*\\.).*)", "destination": "/gu/$1/index.html" },
+    { "source": "/((?!.*\\.).*)", "destination": "/$1/index.html" }
+  ]
 }
