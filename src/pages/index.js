@@ -110,76 +110,6 @@ function ProductsSection() {
   );
 }
 
-function QuickLinks() {
-  return (
-    <section className="seaneb-section">
-      <div className="container" style={{ maxWidth: '1200px' }}>
-        <div className="seaneb-section-header">
-          <h2 className="seaneb-section-title"><Translate id="homepage.quicklinks.title">Popular Resources</Translate></h2>
-          <p className="seaneb-section-desc">
-            <Translate id="homepage.quicklinks.desc">Frequently visited pages, guides, and developer documentation.</Translate>
-          </p>
-        </div>
-
-        <div className="popular-links-list">
-          <Link to="/docs/intro" className="popular-link">
-            <div className="popular-link-content">
-              <h4><Translate id="homepage.quicklinks.gettingStarted.title">Getting Started</Translate></h4>
-              <p><Translate id="homepage.quicklinks.gettingStarted.desc">Learn about the Seaneb architecture and ecosystem setup.</Translate></p>
-            </div>
-            <ArrowRight size={18} color="var(--seaneb-text-secondary)" />
-          </Link>
-
-          <Link to="/docs/Seaneb%20Jobs/overview" className="popular-link">
-            <div className="popular-link-content">
-              <h4><Translate id="homepage.quicklinks.jobs.title">Seaneb Jobs</Translate></h4>
-              <p><Translate id="homepage.quicklinks.jobs.desc">Documentation for job seekers and business recruitment portals.</Translate></p>
-            </div>
-            <ArrowRight size={18} color="var(--seaneb-text-secondary)" />
-          </Link>
-
-          <Link to="/docs/Seaneb%20App/overview" className="popular-link">
-            <div className="popular-link-content">
-              <h4><Translate id="homepage.quicklinks.app.title">Seaneb App</Translate></h4>
-              <p><Translate id="homepage.quicklinks.app.desc">Customer application features, guides, and ecosystem connections.</Translate></p>
-            </div>
-            <ArrowRight size={18} color="var(--seaneb-text-secondary)" />
-          </Link>
-
-          <Link to="/docs/Seaneb%20Auto/overview" className="popular-link">
-            <div className="popular-link-content">
-              <h4><Translate id="homepage.quicklinks.auto.title">Seaneb Auto</Translate></h4>
-              <p><Translate id="homepage.quicklinks.auto.desc">Local transportation, auto-rickshaw network guides, and driver apps.</Translate></p>
-            </div>
-            <ArrowRight size={18} color="var(--seaneb-text-secondary)" />
-          </Link>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function CTASection() {
-  return (
-    <section className="final-cta">
-      <div className="container" style={{ maxWidth: '800px' }}>
-        <h2><Translate id="homepage.cta.title">Ready to build or integrate?</Translate></h2>
-        <p>
-          <Translate id="homepage.cta.desc">Explore developer guides, architecture documentation, or system specifications.</Translate>
-        </p>
-        <div className="seaneb-btn-group">
-          <Link className="seaneb-btn seaneb-btn-primary" to="/docs/intro">
-            <Translate id="homepage.cta.exploreBtn">Explore Documentation</Translate>
-          </Link>
-          <a className="seaneb-btn seaneb-btn-secondary" href="https://www.seaneb.org/" target="_blank" rel="noopener noreferrer">
-            <Translate id="homepage.cta.websiteBtn">Visit Seaneb Website</Translate>
-          </a>
-        </div>
-      </div>
-    </section>
-  );
-}
-
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
 
@@ -195,8 +125,6 @@ export default function Home() {
       <main>
         <Hero />
         <ProductsSection />
-        <QuickLinks />
-        <CTASection />
       </main>
     </Layout>
   );
